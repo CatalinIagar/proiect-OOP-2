@@ -9,13 +9,13 @@ import GUI.UserFrame.UserMenu;
 
 public class Main {
     public static void main(String[] args) {
-        Account.accounts.add(new Account("test1", "A65p96xyz@".toCharArray(), "asd", "asd", "5010623260052", "asd", "0734512363"));
-        Account.accounts.add(new Account("test2", "A65p96xyz@".toCharArray(), "asd", "asd", "5010623260052", "asd", "0734512363"));
-        Account.accounts.add(new Account("test3", "A65p96xyz@".toCharArray(), "asd", "asd", "5010623260052", "asd", "0734512363"));
-        Account.accounts.add(new Account("test4", "A65p96xyz@".toCharArray(), "asd", "asd", "5010623260052", "asd", "0734512363"));
-        Account.accounts.add(new Account("test5", "A65p96xyz@".toCharArray(), "asd", "asd", "5010623260052", "asd", "0734512363"));
-        Account.accounts.add(new Account("test6", "A65p96xyz@".toCharArray(), "asd", "asd", "5010623260052", "asd", "0734512363"));
-        Account.accounts.add(new Account("test7", "A65p96xyz@".toCharArray(), "asd", "asd", "5010623260052", "asd", "0734512363"));
+        Account.accounts.add(new Account("test1", "A65p96xyz@".toCharArray(), "asd", "asd", "5010414362739", "asd", "0712345678"));
+        Account.accounts.add(new Account("test2", "A65p96xyz@".toCharArray(), "asd", "asd", "5010414362739", "asd", "0712345678"));
+        Account.accounts.add(new Account("test3", "A65p96xyz@".toCharArray(), "asd", "asd", "5010414362739", "asd", "0712345678"));
+        Account.accounts.add(new Account("test4", "A65p96xyz@".toCharArray(), "asd", "asd", "5010414362739", "asd", "0712345678"));
+        Account.accounts.add(new Account("test5", "A65p96xyz@".toCharArray(), "asd", "asd", "5010414362739", "asd", "0712345678"));
+        Account.accounts.add(new Account("test6", "A65p96xyz@".toCharArray(), "asd", "asd", "5010414362739", "asd", "0712345678"));
+        Account.accounts.add(new Account("test7", "A65p96xyz@".toCharArray(), "asd", "asd", "5010414362739", "asd", "0712345678"));
 
         Car.cars.add(new Car("Dacia", "Logan", "Rosu"));
         Car.cars.add(new Car("VW", "Golf", "Negru"));
